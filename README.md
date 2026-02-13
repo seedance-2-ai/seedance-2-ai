@@ -8,7 +8,11 @@
 
 > **🔥 LATEST UPDATE:** Seedance 2.0 is now available for public testing via Dreamina and the Doubao ecosystem.
 
-[🚀 **Try Seedance 2.0 Free Trial (Official Web)**](https://your-landing-page-here.com) | [📑 **Get Seedance 2.0 API Key**](https://your-landing-page-here.com)
+> **⚠️ URGENT UPDATE (Feb 14):** Due to extreme server load, the public access portal is refreshing. The new API & Trial link will be posted here in less than 24 hours.
+>
+> 👉 **[Star ⭐ this Repository]** to get an instant notification when the server goes live!
+
+[🔴 **Status: High Traffic**] | [⏳ **Waiting for Slot...**]
 
 ---
 
