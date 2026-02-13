@@ -76,6 +76,8 @@ A: Seedance 2.0 significantly outperforms Gen-3 in **character consistency** and
 **Q: Can I use Seedance 2.0 for free?**
 A: Yes, the **Dreamina** platform offers daily free credits for new users.
 
+**Q: Why is the direct link updating?**
+A: We are scaling the GPU clusters to handle the viral traffic for Seedance 2.0. The stable link will be pinned to the top of this README tomorrow.
 ---
 
 ## 🔗 Related Resources
