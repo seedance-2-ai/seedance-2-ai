@@ -84,7 +84,7 @@ A: We are scaling the GPU clusters to handle the viral traffic for Seedance 2.0.
 *   [Official Seedance 2.0 Paper (Coming Soon)](#)
 *   [Jimeng AI / Dreamina Official Site](#)
 *   [BytePlus API Documentation](#)
-
+*   [Check out our technical API documentation here](https://github.com/seedance-api/seedance-api)
 ---
 
 **Disclaimer:** This is an unofficial community resource. All trademarks (Seedance, ByteDance, Dreamina, Jimeng, CapCut) belong to their respective owners.
